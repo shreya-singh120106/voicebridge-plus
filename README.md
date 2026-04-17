@@ -259,7 +259,7 @@ voicebridge-plus/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/voicebridge-plus.git
+git clone https://github.com/shreya-singh120106/voicebridge-plus.git
 cd voicebridge-plus
 ```
 
